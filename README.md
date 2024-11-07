@@ -14,7 +14,7 @@
 - 📚 General :
   
   
-  - 🔭 I’m currently working on Seasons WL % Seasons FA 
+  - 🔭 I’m currently working on Gline WL % Gline FA 
 
 
 
